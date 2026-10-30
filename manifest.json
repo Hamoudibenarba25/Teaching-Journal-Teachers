@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "Teaching Journal Pro \u2014 Teachers Edition",
+  "short_name": "Teaching Journal",
+  "description": "Customisable offline teaching journal and flexible timetable for teachers.",
+  "lang": "en",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f2f6fa",
+  "theme_color": "#12243a",
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
